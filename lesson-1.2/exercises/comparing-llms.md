@@ -4,13 +4,13 @@ Welcome to the Chatbot Model Comparison activity! Here, you will compare the out
 Complete the activity [here](https://igfnaqfcyl-13589482-i.codehs.me/index.html).  Then edit this page and write down your reflections here:
 
 ### Which model did you find performed best overall, and why?
-[Reflection Here]
+### Model A performed best overall because it answered the two questions asked and did not give extra information not asked for in the question like Model B and C
 
 ### In which comparison category (accuracy, creativity, conciseness, bias) did you find the models to be the most similar? What about the most different?
-[Reflection Here]
+### The typical nurse category had similar models and the most different was the creativity comparison
 
 ### Were you surprised by any of the results?
-[Reflection Here]
+### No, I was not
 
 ### What categories beyond the ones tested here (accuracy, creativity, conciseness, bias) would you consider important in evaluating a chatbot/model?
-[Reflection Here]
+### The difference between a train and a subway
